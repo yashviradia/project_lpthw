@@ -4,16 +4,16 @@ except ImportError:
     from distutils.core import setup 
 
 config = {
-    'description': 'ex47',
+    'description': 'My Gothon game on the web.',
     'author': 'Hallo',
-    'url': 'www.ex47.com',
-    'download_url': 'www.ex47.com/download',
-    'author_email': 'ex47@projects.com',
+    'url': 'http://gothonweb.com/project/',
+    'download_url': 'http://gothonweb.com/download/',
+    'author_email': 'help@gothonweb.com',
     'version': '0.1',
     'install_requires': ['nose'],
-    'packages': ['ex47'],
+    'packages': ['gothonweb'],
     'scripts': [],
-    'name': 'ex47'
+    'name': 'gothonweb'
 }
 
 setup(**config)
