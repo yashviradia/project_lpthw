@@ -75,7 +75,8 @@ you run to the escape pod to get off this tin can.
 
 You rush through the ship desperately trying to make it to
 the escape pod before the whole ship explodes. It seems
-like hardly any Gothons are on the ship, so your run is clear of interference. YOu get to the chamber with the
+like hardly any Gothons are on the ship, so your run is 
+clear of interference. YOu get to the chamber with the
 escape pods, and now need to pick one to take. Some of
 them could be damaged but you don't have time to look.
 There's 5 pods, which one do you take?
